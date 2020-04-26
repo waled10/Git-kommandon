@@ -14,6 +14,10 @@ Man använder den här kommadon genom att skriva "git init" och man kan även sk
 funktionalitet.
 
 git status
-Git status är en annan kommando, funktionalitet hos den är att den visar dig 
+Git status är en annan kommando, funktionalitet hos den är att den visar dig status för din ändringar som ospårade, modiferade och 
+iscensatta. Den har även funktionalitet som till exempel "git status -short" som är en output i en kort format.
+
+git push
+Den här kommnadon är uppdaterar din 
 
 
