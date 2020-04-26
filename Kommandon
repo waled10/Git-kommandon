@@ -1,5 +1,6 @@
 Kommandon från Git
-Alla kommandon kan användas genom windows powershell, kommandotolken eller Git hub desktop
+Alla kommandon kan användas genom windows powershell, kommandotolken eller Git hub desktop och alla kommandon har egna funktionalitet 
+mer än vad den gör generell.
 
 git clone:
 Git clone är en kommando där man skapar en lokal av ett projekt. 
@@ -13,11 +14,23 @@ som du använder i till exempel windows powershell och den innehåller den inter
 Man använder den här kommadon genom att skriva "git init" och man kan även skriva till exempel "git init -q" eftersom git init har olika
 funktionalitet.
 
-git status
+git status:
 Git status är en annan kommando, funktionalitet hos den är att den visar dig status för din ändringar som ospårade, modiferade och 
 iscensatta. Den har även funktionalitet som till exempel "git status -short" som är en output i en kort format.
 
-git push
-Den här kommnadon är uppdaterar din 
+git push:
+Den här kommnadon är uppdaterar fjärrförvaret med alla förbindelse som görs lokalt till en avdelning. Man kan säga att när man använder
+git push då överför man sina commits från ditt lokala arkiv till en fjärrepo.
+
+git branch:
+Egenskapen hos kommandon git branch är att den visar dina grenar som arbetas lokalt. Det innebär att du kan skapa, list, byta namn 
+på och radera grenar. Dessutom låter detta inte dig att växla mellan grenar eller sätta tillbaka en "forked" historia.
+
+git pull:
+Git pull är en kommando där man kan hämta eller ladda ner innehåll från ett fjärrlager och den uppdaterar omedelbart det lokala arkivet
+för att den ska matcha det innehållet. Anledningen till att utvecklare använder den här kommandon är om de vill återspegla dessa 
+förändringar i sin lokala miljö från andra lagkamrater som har gjort åtaganden på en fjärrkontroll.
+
+
 
 
