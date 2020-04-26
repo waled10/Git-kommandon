@@ -1,1 +1,4 @@
 Kommandon från Git
+git clone = Git clone är en kommando där man skapar en lokal av ett projekt. 
+Denna lokala kopian finns redan på distans och klonen innehåller alla projektets filer, historik och fack.
+Den här kommandon används 
