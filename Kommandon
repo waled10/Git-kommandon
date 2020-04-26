@@ -1,4 +1,12 @@
 Kommandon från Git
-git clone = Git clone är en kommando där man skapar en lokal av ett projekt. 
+Alla kommandon kan användas genom windows powershell, kommandotolken eller Git hub desktop
+
+git clone:
+Git clone är en kommando där man skapar en lokal av ett projekt. 
 Denna lokala kopian finns redan på distans och klonen innehåller alla projektets filer, historik och fack.
-Den här kommandon används 
+Den här kommandon används genom att man skriver git clone och har en länk därefter.
+
+git init:
+Git init är en kommado som gör så att till exempel din kommando
+
+
